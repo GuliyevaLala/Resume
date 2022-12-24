@@ -1,0 +1,76 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+  html {
+    height: 100%;  
+  }
+  
+  body {
+    min-height: 200%;  
+    background: rgb(83, 85, 84);
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #222;
+    font-size: 14px;
+    line-height: 26px;
+    padding-bottom: 50px;
+  }
+
+  .container {
+    max-width: 1216px;   
+    background: rgb(222, 142, 142);
+    margin: 0px auto 0px; 
+    border-radius: 3px;  
+    padding: 50px;
+    margin-top: 53px;
+  }  
+  .header {
+    margin: 50px;
+  }
+ 
+  .full-name {
+    font-size: 40px;
+    margin-left: 450px;
+    margin-top: -150px;
+
+  }
+  .full-name span {
+    font-weight: 900;
+    line-height: 30px;
+ }
+
+ #experience,#projects,#education,#language,#skills {
+  color: rgb(69, 30, 30);
+  margin-bottom: 35px;
+}
+.box {
+  width: 385px;
+  height: 1102px;
+  padding-left: 10px;
+  margin-top: 18px;
+  margin-left: 95px;
+  border-left: 3px dashed rgb(126, 32, 32);
+  display: inline-block;
+}
+.box h2{
+  color: rgb(138, 143, 149);
+}
+.image{
+  background-image: url(../photos/how-to-take-a-good-photo-for-your-cv-our-top-tips-9c789ace53283a36f7a3ccf9646be14f.jpg);
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    margin-left: 80px;
+    border-radius: 50%;
+    
+}
+
+
+
+  
+ 
